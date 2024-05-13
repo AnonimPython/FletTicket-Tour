@@ -1,0 +1,31 @@
+{
+    "tickets": [
+        {
+            "title": "Аэрофлот",
+            "location": "Шереметьево",
+            "duration": "6",
+            "price": "32000",
+            "img": "",
+            "from_city": "Москва",
+            "to": "Египет",
+            "main_text": "Море Красное - отели лучшие",
+            "about": "летай с кайфом",
+            "stars": "5",
+            "barcode": "",
+            "id": 1
+        },
+        {
+            "title": "Победа",
+            "location": "Домодедово",
+            "duration": "2",
+            "price": "40000",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pobeda_logo.svg/2560px-Pobeda_logo.svg.png",
+            "from_city": "Москва",
+            "to": "Сочи",
+            "main_text": "Лети на море",
+            "about": "Отдыхай",
+            "stars": "4",
+            "id": 2
+        }
+    ]
+}

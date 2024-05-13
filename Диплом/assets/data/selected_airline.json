@@ -1,0 +1,13 @@
+{
+    "title": "Победа",
+    "location": "Домодедово",
+    "duration": "2",
+    "price": "40000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pobeda_logo.svg/2560px-Pobeda_logo.svg.png",
+    "from_city": "Москва",
+    "to": "Сочи",
+    "main_text": "Лети на море",
+    "about": "Отдыхай",
+    "stars": "4",
+    "id": 2
+}

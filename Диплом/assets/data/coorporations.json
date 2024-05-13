@@ -1,0 +1,45 @@
+{
+    "airlines": [
+      {
+        "name": "Aeroflot",
+        "logo": "aeroflot.png",
+        "rating": 4.5
+      },
+      {
+        "name": "S7 Airlines",
+        "logo": "s7_airlines.png",
+        "rating": 4.2
+      },
+      {
+        "name": "Lufthansa",
+        "logo": "lufthansa.png",
+        "rating": 4.7
+      },
+      {
+        "name": "Emirates",
+        "logo": "emirates.png",
+        "rating": 4.9
+      },
+      {
+        "name": "British Airways",
+        "logo": "british_airways.png",
+        "rating": 4.4
+      },
+      {
+        "name": "Delta Air Lines",
+        "logo": "delta_air_lines.png",
+        "rating": 4.3
+      },
+      {
+        "name": "Air France",
+        "logo": "air_france.png",
+        "rating": 4.6
+      },
+      {
+        "name": "Singapore Airlines",
+        "logo": "singapore_airlines.png",
+        "rating": 4.8
+      }
+    ]
+  }
+  

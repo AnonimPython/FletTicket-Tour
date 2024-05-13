@@ -1,0 +1,19 @@
+{
+    "user_cards" : [
+        {
+            "bank_name": "SberBank",
+            "card_number": "1234 5678 1234 5678",
+            "CVV": "123",
+            "date" : "20/24"
+        },
+        {
+            "bank_name": "TinkoffBank",
+            "card_number": "1234 5678 1234 5678",
+            "CVV": "234",
+            "date" : "21/25"
+        }
+
+    ]
+
+
+}
